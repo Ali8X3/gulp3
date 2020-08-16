@@ -1,0 +1,22 @@
+{
+  "author": "x",
+  "name": "gulp3",
+  "homepage": "https://github.com/Ali8X3/gulp3",
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.0.0"
+  },
+  "devDependencies": {
+
+  }
+}
